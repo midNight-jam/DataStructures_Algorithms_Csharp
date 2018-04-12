@@ -21,25 +21,23 @@
 //    5   4   7
 // Note: The merging process must start from the root nodes of both trees.
 
-
- //* Definition for a binary tree node.
-  public class TreeNode {
-      public int val;
-      public TreeNode left;
-      public TreeNode right;
-      public TreeNode(int x) { val = x; }
- }
-
-  public class Merge_Two_Binary_Trees
-  {
-    public TreeNode MergeTrees(TreeNode t1, TreeNode t2)
-    {
-      if (t1 == null && t2 == null) return null;
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public int val;
+ *     public TreeNode left;
+ *     public TreeNode right;
+ *     public TreeNode(int x) { val = x; }
+ * }
+ */
+public class Solution {
+    public TreeNode MergeTrees(TreeNode t1, TreeNode t2) {
+      if(t1 == null && t2 == null) return null;
       TreeNode node = new TreeNode(0);
-      if (t1 != null) node.val += t1.val;
-      if (t2 != null) node.val += t2.val;
+      if(t1!= null) node.val += t1.val;
+      if(t2!= null) node.val += t2.val;
       node.left = MergeTrees(t1 != null ? t1.left : null, t2 != null ? t2.left : null);
       node.right = MergeTrees(t1 != null ? t1.right : null, t2 != null ? t2.right : null);
       return node;
     }
-  }
+}

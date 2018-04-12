@@ -1,1 +1,6 @@
 D:\_Darkspace\GIT\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\bin\Debug\DSA_Proj.exe.config
+D:\_Darkspace\GIT\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\obj\Debug\DSA_Proj.csprojResolveAssemblyReference.cache
+D:\_Darkspace\GIT\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\bin\Debug\DSA_Proj.exe
+D:\_Darkspace\GIT\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\bin\Debug\DSA_Proj.pdb
+D:\_Darkspace\GIT\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\obj\Debug\DSA_Proj.exe
+D:\_Darkspace\GIT\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\obj\Debug\DSA_Proj.pdb

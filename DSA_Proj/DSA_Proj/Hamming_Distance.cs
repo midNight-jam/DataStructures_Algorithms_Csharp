@@ -16,7 +16,7 @@
 //        ↑   ↑
 // The above arrows point to positions where the corresponding bits are different.
 
-public class Solution {
+public class Hamming_Distance {
     public int HammingDistance(int x, int y) {
       int diff  = x ^ y;
       int count = 0;

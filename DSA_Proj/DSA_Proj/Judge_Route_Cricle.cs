@@ -10,7 +10,7 @@
 // Input: "LL"
 // Output: false
 
-public class Solution {
+public class Judge_Route_Circle {
     public bool JudgeCircle(string moves) {
       if(moves == null || moves.Length == 0) return false;
       int x = 0;
