@@ -35,6 +35,5 @@ public class Solution {
     		 "5 wiki.org"
     		};
     	var res = SubdomainVisits(dm);
-        Console.WriteLine(string.Join(",", res.ToArray()));
     }
 }
