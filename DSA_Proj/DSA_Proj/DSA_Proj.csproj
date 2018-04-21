@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array_Partition_I.cs" />
     <Compile Include="Find_Anagram_Mappings.cs" />
     <Compile Include="Hamming_Distance.cs" />
     <Compile Include="Jewels_And_Stones.cs" />
