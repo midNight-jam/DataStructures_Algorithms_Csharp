@@ -21,4 +21,4 @@ This repository is a collection of algorithms, data structures and coding challe
 | <b>Reverse String II</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Reverse_String_II.cs)|
 | <b>Self Dividing Numbers</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Self_Dividing_Numbers.cs)|
 | <b>Subdomain Visit Count</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Subdomain_Visit_Count.cs)|
-| <b>Two Sum</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Two Sum.cs)|
+| <b>Two Sum</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Two_Sum.cs)|
