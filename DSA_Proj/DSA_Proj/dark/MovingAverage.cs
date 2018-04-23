@@ -22,7 +22,7 @@ public class MovingAverage {
         return (double)(sum / numbers.Count);
     }
 
-    public static void Main(string [] args){
+    public static void zMain(string [] args){
       int size = 3;
       MovingAverage obj = new MovingAverage(size);   
       MovingAverage m = new MovingAverage(3);

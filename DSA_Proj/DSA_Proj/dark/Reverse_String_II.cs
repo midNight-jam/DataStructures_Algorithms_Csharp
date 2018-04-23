@@ -9,7 +9,7 @@ Input: "Let's take LeetCode contest"
 Output: "s'teL ekat edoCteeL tsetnoc"
 Note: In the string, each word is separated by single space and there will not be any extra space in the string.
 */
-public class Solution {
+public class Reverse_String_II{
     public string ReverseWords(string s) {
         if(s == null || s.Length == 0) return s;
         char [] arr = s.ToCharArray();

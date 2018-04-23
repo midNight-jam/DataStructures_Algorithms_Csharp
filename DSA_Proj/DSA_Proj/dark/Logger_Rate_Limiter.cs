@@ -57,7 +57,7 @@ public class Logger {
         return true;
     }
 
-    public static void Main(string [] args){
+    public static void zMain(string [] args){
       Logger obj = new Logger();   
     }
 }

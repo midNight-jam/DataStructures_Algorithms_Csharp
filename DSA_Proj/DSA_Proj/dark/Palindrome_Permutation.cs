@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 
 
@@ -8,7 +9,7 @@ using System;
 // "code" -> False, "aab" -> True, "carerac" -> True.
 
 
-public class Solution {
+public class Palindrome_Permutation {
     public bool CanPermutePalindrome(string s) {
         if(s == null || s.Length == 0) return false;
         

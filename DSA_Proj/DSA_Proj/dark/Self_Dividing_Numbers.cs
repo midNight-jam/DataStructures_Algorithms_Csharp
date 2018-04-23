@@ -33,7 +33,7 @@ namespace DSA_Proj
       }
       return res;
     }
-    public static void Main(string[] args)
+    public static void zMain(string[] args)
     {
       int left = 1;
       int right = 22;

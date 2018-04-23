@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 
-public class Solution {
+public class SolSubdomain_Visit_Countution
+{
     public static IList<string> SubdomainVisits(string[] cpdomains) {
         if(cpdomains == null || cpdomains.Length == 0) return new List<String>();
         var dictionary = new Dictionary<string, int>();
@@ -27,7 +28,7 @@ public class Solution {
         return res;
     }
 
-    public static void Main(string [] args){
+    public static void zMain(string [] args){
     	var dm = new string[]{
     		"900 google.mail.com",
     		 "50 yahoo.com", 

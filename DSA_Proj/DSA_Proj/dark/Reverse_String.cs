@@ -7,7 +7,7 @@ Example:
 Given s = "hello", return "olleh
 */
 
-public class Solution {
+public class Reverse_String{
     public string ReverseString(string s) {
         if(s == null || s.Length == 0) return s;
         char [] arr = s.ToCharArray();

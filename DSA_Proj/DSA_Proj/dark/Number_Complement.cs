@@ -16,7 +16,7 @@ using System;
 // Output: 0
 // Explanation: The binary representation of 1 is 1 (no leading zero bits), and its complement is 0. So you need to outp
 
-public class Solution {
+public class Number_Complement {
     public static int FindComplement(int num) {
         Console.WriteLine( Convert.ToString(num, 2));
 
@@ -35,7 +35,7 @@ public class Solution {
         return res;
     }
 
-    public static void Main(string [] args){
+    public static void zMain(string [] args){
       int p = 0; 
       FindComplement(p);
     }
