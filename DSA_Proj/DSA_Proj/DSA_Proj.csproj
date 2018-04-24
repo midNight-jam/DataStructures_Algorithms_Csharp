@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="dark\Array_Partition_I.cs" />
     <Compile Include="dark\Baseball_Game.cs" />
+    <Compile Include="dark\Distribute_Candies.cs" />
     <Compile Include="dark\Find_Anagram_Mappings.cs" />
     <Compile Include="dark\Hamming_Distance.cs" />
     <Compile Include="dark\Jewels_And_Stones.cs" />
