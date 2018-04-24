@@ -45,7 +45,9 @@
     <Compile Include="dark\Baseball_Game.cs" />
     <Compile Include="dark\Distribute_Candies.cs" />
     <Compile Include="dark\Find_Anagram_Mappings.cs" />
+    <Compile Include="dark\FizzBuzz.cs" />
     <Compile Include="dark\Hamming_Distance.cs" />
+    <Compile Include="dark\Island_Perimeter.cs" />
     <Compile Include="dark\Jewels_And_Stones.cs" />
     <Compile Include="dark\Judge_Route_Cricle.cs" />
     <Compile Include="dark\Logger_Rate_Limiter.cs" />
