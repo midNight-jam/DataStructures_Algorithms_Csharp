@@ -91,7 +91,7 @@ namespace DSA_Proj.dark
       }
       return res;
     }
-    public static void Main(string[] args) {
+    public static void zMain(string[] args) {
       //string[] ops = new String[] { "5", "2", "C", "D", "+" };
       //string[] ops = new String[] { "5", "-2", "4", "C", "D", "9", "+", "+" };
       string[] ops = new String[] { "36", "28", "70", "65", "C", "+", "33", "-46", "84", "C" };
