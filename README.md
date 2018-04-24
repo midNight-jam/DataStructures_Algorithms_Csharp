@@ -23,3 +23,5 @@ This repository is a collection of algorithms, data structures and coding challe
 | <b>Subdomain Visit Count</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Subdomain_Visit_Count.cs)|
 | <b>Two Sum</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Two_Sum.cs)|
 | <b>Baseball Game</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Baseball_Game.cs)|
+| <b>Distribute Candies</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Distribute_Candies.cs)|
+| <b>Trim BST</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Trim_BST.cs)|
