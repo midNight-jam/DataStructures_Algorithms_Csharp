@@ -50,10 +50,10 @@ namespace DSA_Proj.dark
     {
       if (root == null) return root;
 
-      if (root.val < L && root.val < R)
+      if (root.val < L)
         return TrimBST(root.right, L, R);
 
-      if (root.val > L && root.val > R)
+      if (root.val > R)
         return TrimBST(root.left, L, R);
 
       root.left = TrimBST(root.left, L, R);
