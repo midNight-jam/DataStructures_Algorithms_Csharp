@@ -29,3 +29,4 @@ This repository is a collection of algorithms, data structures and coding challe
 | <b>Island Perimeter</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Island_Perimeter.cs)|
 | <b>Toeplitz Matrix</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Toeplitz_Matrix.cs)|
 | <b>Reshape Matrix</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Reshape_Matrix.cs)|
+| <b>Flip Game</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Flip_Game.cs)|
