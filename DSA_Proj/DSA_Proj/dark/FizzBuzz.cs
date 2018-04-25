@@ -30,7 +30,7 @@ namespace DSA_Proj.dark
 
   class FizzBuzz
   {
-    public IList<string> FizzBuzz(int n)
+    public IList<string> Fizz_Buzz(int n)
     {
       var res = new string[n];
 

@@ -57,6 +57,8 @@
     <Compile Include="dark\Number_of_Lines_To_Write_String.cs" />
     <Compile Include="dark\Palindrome_Permutation.cs" />
     <Compile Include="dark\Program.cs" />
+    <Compile Include="dark\Reshape_Matrix.cs" />
+    <Compile Include="dark\Toeplitz_Matrix.cs" />
     <Compile Include="dark\Trim_BST.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="dark\Reverse_String.cs" />

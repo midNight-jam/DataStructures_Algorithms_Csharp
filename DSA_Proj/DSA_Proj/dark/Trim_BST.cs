@@ -61,7 +61,7 @@ namespace DSA_Proj.dark
       return root;
     }
 
-    public static void Main(string[] args) {
+    public static void zMain(string[] args) {
 
       TreeNode root = new TreeNode(1);
       root.left = new TreeNode(0);
