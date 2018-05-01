@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Text;
 
-using System.Collections.Generic;
-
 namespace DSA_Proj.dark
 {
   class GoatLatin
@@ -44,5 +42,4 @@ namespace DSA_Proj.dark
       Console.ReadLine();
     }
   }
-
 }
