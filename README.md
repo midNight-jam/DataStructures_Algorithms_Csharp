@@ -30,4 +30,5 @@ This repository is a collection of algorithms, data structures and coding challe
 | <b>Toeplitz Matrix</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Toeplitz_Matrix.cs)|
 | <b>Reshape Matrix</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Reshape_Matrix.cs)|
 | <b>Flip Game</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Flip_Game.cs)|
-| <b>Goat Latin</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/Goat_Latin.cs)|
+| <b>Goat Latin</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/GoatLatin.cs)|
+| <b>ToLowerCase</b>  <br>             | [View](https://github.com/midNight-jam/DataStructures_Algorithms_Csharp/tree/master/DSA_Proj/DSA_Proj/dark/ToLowerCase.cs)|
