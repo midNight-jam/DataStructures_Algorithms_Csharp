@@ -1,0 +1,11 @@
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\bin\Debug\netcoreapp2.1\ThreadParallelLibrary.deps.json
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\bin\Debug\netcoreapp2.1\ThreadParallelLibrary.runtimeconfig.json
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\bin\Debug\netcoreapp2.1\ThreadParallelLibrary.runtimeconfig.dev.json
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\bin\Debug\netcoreapp2.1\ThreadParallelLibrary.dll
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\bin\Debug\netcoreapp2.1\ThreadParallelLibrary.pdb
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\obj\Debug\netcoreapp2.1\ThreadParallelLibrary.csprojAssemblyReference.cache
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\obj\Debug\netcoreapp2.1\ThreadParallelLibrary.csproj.CoreCompileInputs.cache
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\obj\Debug\netcoreapp2.1\ThreadParallelLibrary.AssemblyInfoInputs.cache
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\obj\Debug\netcoreapp2.1\ThreadParallelLibrary.AssemblyInfo.cs
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\obj\Debug\netcoreapp2.1\ThreadParallelLibrary.dll
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\ThreadParallelLibrary\obj\Debug\netcoreapp2.1\ThreadParallelLibrary.pdb

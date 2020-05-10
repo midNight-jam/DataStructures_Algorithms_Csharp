@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "cfaa5c576b7f84d107aa06765c8164bd8ead3117"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ThreadParallelLibrary/1.0.0": {
+        "dependencies": {
+          "System.Threading.Tasks.Dataflow": "4.5.25"
+        },
+        "runtime": {
+          "ThreadParallelLibrary.dll": {}
+        }
+      },
+      "System.Threading.Tasks.Dataflow/4.5.25": {}
+    }
+  },
+  "libraries": {
+    "ThreadParallelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Threading.Tasks.Dataflow/4.5.25": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y5/Dj+tYlDxHBwie7bFKp3+1uSG4vqTJRF7Zs7kaUQ3ahYClffCTxvgjrJyPclC+Le55uE7bMLgjZQVOQr3Jfg==",
+      "path": "system.threading.tasks.dataflow/4.5.25",
+      "hashPath": "system.threading.tasks.dataflow.4.5.25.nupkg.sha512"
+    }
+  }
+}

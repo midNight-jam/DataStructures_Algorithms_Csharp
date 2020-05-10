@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA_Proj", "DSA_Proj\DSA_Proj.csproj", "{CE15CBE6-DD08-4755-9E15-99B8F6422E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadParallelLibrary", "ThreadParallelLibrary\ThreadParallelLibrary.csproj", "{36F012F7-0DF2-49DE-96D4-AC73E8D631DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +17,15 @@ Global
 		{CE15CBE6-DD08-4755-9E15-99B8F6422E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE15CBE6-DD08-4755-9E15-99B8F6422E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE15CBE6-DD08-4755-9E15-99B8F6422E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F012F7-0DF2-49DE-96D4-AC73E8D631DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F012F7-0DF2-49DE-96D4-AC73E8D631DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F012F7-0DF2-49DE-96D4-AC73E8D631DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F012F7-0DF2-49DE-96D4-AC73E8D631DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D8BE7BC-1553-4F52-8B8C-5F50FA46F718}
 	EndGlobalSection
 EndGlobal

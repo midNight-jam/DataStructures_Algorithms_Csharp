@@ -4,3 +4,10 @@ D:\_Darkspace\GIT\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\bin\Debug\D
 D:\_Darkspace\GIT\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\bin\Debug\DSA_Proj.pdb
 D:\_Darkspace\GIT\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\obj\Debug\DSA_Proj.exe
 D:\_Darkspace\GIT\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\obj\Debug\DSA_Proj.pdb
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\bin\Debug\DSA_Proj.exe.config
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\bin\Debug\DSA_Proj.exe
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\bin\Debug\DSA_Proj.pdb
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\obj\Debug\DSA_Proj.csprojAssemblyReference.cache
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\obj\Debug\DSA_Proj.csproj.CoreCompileInputs.cache
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\obj\Debug\DSA_Proj.exe
+D:\dark\DataStructures_Algorithms_Csharp\DSA_Proj\DSA_Proj\obj\Debug\DSA_Proj.pdb
