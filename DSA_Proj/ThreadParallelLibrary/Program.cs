@@ -13,8 +13,9 @@ namespace ThreadParallelLibrary
             //CancelParallelForEach.main();
             //HandleExceptionInParallelLoops.main();
             //DataflowReadWrite.main();
-            DataflowProducerConsumer.main();
-
+            //DataflowProducerConsumer.main();
+            //PerformActionWhenDataflowBlockReceivesData.main();
+            DataFlowPipeline.main();
 
 
 
